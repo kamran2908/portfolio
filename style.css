@@ -1,0 +1,128 @@
+body.indexPage {
+    background-color: #43008b;
+    color: #0ec8ed;
+}
+
+#welcomeLine {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-weight: 100;
+    font-size: 50px;
+    color: white;
+}
+
+a.navLinks{
+    text-decoration: none;
+    padding: 8px 10px;
+    font-size: 22px;
+    font-weight: bold;
+    color: #00d4ff;
+}
+
+a.navLinks:hover {
+    text-decoration: none;
+    padding: 8px 10px;
+    font-size: 24px;
+    font-weight: bold;
+    color: #00ffff;
+}
+
+nav {
+    text-align: right;
+    margin: 60px;
+}
+
+.footer {
+    background: #3a1265;
+    font-size: 17px;
+    padding: 3rem 0;
+    text-align: center;
+    border-top: 1px solid rgba(0, 212, 255, 0.1);
+}
+
+a.socialLinks  {
+    text-decoration: none;
+    color: #a0a0ff;
+}
+
+a.socialLinks:hover {
+    text-decoration: none;
+    color: #00d4ff;
+}
+
+.oneline-intro h2{
+    color:white;
+    text-align: left;
+    font-size: 3.8rem;
+    margin-bottom: 15px;
+}
+
+.oneline-intro h3 {
+  font-size: 1.8rem;
+  color: #e9d5ff;
+  margin-top: 15px;
+  margin-top: 15px;
+}
+
+.oneline-intro p {
+  font-size: 1.25rem;
+  margin-bottom: 15px;
+  color:#fecaca;
+}
+
+.oneline-intro span{
+    color: #00d4ff;
+}
+
+.oneline-intro{
+    margin-bottom: 200px;
+}
+
+.brief-intro{
+    margin: 15px 100px 80px;
+    color: white;
+}
+
+.brief-intro h2{
+    text-align: left;
+}
+
+.brief-intro p{
+    font-size: 18px;
+}
+
+
+
+.aboutContent p{
+    margin: 20px 200px 25px;
+    /* border: #3e3ee7 double 4px ; */
+    color: #fef08a;
+    border-radius: 10px;
+    padding: 25px;
+    font-size: 20px;
+    margin-top: 50px;
+    height: 80px;
+    width: 850px;
+    text-align: justify;
+    font-style: italic;
+}
+
+.aboutPage {
+    background-image: url("aboutImage.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+#ppsi{
+    float: right;
+    margin: 50px;
+    border-radius:20px;
+}
+
+.hobbies img{
+    height: 280px;
+    width: 400px;
+    border-radius:20px;
+    margin: 25px;
+}
